@@ -1,0 +1,2 @@
+# 2.MAC-ecom-website-or-project
+ This project deals with developing an e-commerce website for Online Product Sale. It provides the user with a catalog of different product available for purchase in the store. In order to facilitate online purchase a shopping cart is provided to the user .One can sell online his/her product on website also , by creating admin account through admin section of this e-commerce website.
